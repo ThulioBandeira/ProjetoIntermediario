@@ -1,0 +1,53 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+body main {
+  text-align: center;
+  padding: 20px;
+}
+#main {
+  width: 610px;
+  height: 486px;
+  margin: auto;
+}
+#destino {
+  font-weight: bold;
+}
+body main h1 {
+  font-family: "Inter", sans-serif;
+  color: #3f3d56;
+  font-weight: normal;
+}
+body main h1 span {
+  color: #ee24ff;
+}
+body main p {
+  color: #828282;
+}
+#flutuar {
+  color: #828282;
+}
+body main p strong {
+  color: #3f3d56;
+}
+footer {
+  text-align: center;
+}
+.footer a {
+  color: #3f3d56;
+  text-decoration: none;
+  text-align: center;
+  margin-left: 28px;
+}
+.line {
+  width: 400px;
+  height: 0;
+  margin: auto;
+  border: 1px solid #eceff2;
+}
+#wave {
+  position: relative;
+  bottom: -10px;
+  left: -7px;
+  width: 100vw;
+}
